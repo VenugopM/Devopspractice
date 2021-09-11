@@ -25,18 +25,3 @@ This is fan3....!!!!
 This is fan....!!!!
 This is fan....!!!!
 This is fan....!!!!
-
-<<<<<<< HEAD
-================================
-This is fanh....!!!!
-This is fan....!!!!
-This is fan....!!!!
-This is fan....!!!!
-=======
-
-================================
-This is newly added line....!!!!
-This is newly added line....!!!!
-This is newly added line....!!!!
-This is newly added line....!!!!
->>>>>>> 350232cbd9148cf8aad677fd8f8febe31b2a68b8
